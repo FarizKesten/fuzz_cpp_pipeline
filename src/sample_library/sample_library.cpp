@@ -1,4 +1,4 @@
-#include <myproject/sample_library.hpp>
+#include <fuzz_cpp_pipeline/sample_library.hpp>
 
 int factorial(int input) noexcept
 {
